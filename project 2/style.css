@@ -2,7 +2,7 @@
     box-sizing:border-box;
     margin: 0;
     padding: 0;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 body {
@@ -26,4 +26,11 @@ body {
     color: #0888b2 ;
     font-size: 1.2rem;
     text-align: center;
+}
+
+button {
+    padding: 5px;
+    background-color: #c371ce;
+    color: rgb(113, 211, 244);
+    cursor: pointer;
 }
