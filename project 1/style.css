@@ -29,3 +29,10 @@ body{
 .active{
     display: block;
 }
+
+button {
+    padding: 5px;
+    background-color: #c371ce;
+    color: rgb(113, 211, 244);
+    cursor: pointer;
+}
